@@ -183,12 +183,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\aspnetcoreapp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+      "projectUniqueName": "C:\\aspnetcoreapp\\unit-testing-using-dotnet-test\\ExampleUnitTest\\PrimeService\\PrimeService.csproj",
       "projectName": "PrimeService",
-      "projectPath": "C:\\aspnetcoreapp\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+      "projectPath": "C:\\aspnetcoreapp\\unit-testing-using-dotnet-test\\ExampleUnitTest\\PrimeService\\PrimeService.csproj",
       "packagesPath": "C:\\Users\\deepakk\\.nuget\\packages\\",
-      "outputPath": "C:\\aspnetcoreapp\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
+      "outputPath": "C:\\aspnetcoreapp\\unit-testing-using-dotnet-test\\ExampleUnitTest\\PrimeService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
