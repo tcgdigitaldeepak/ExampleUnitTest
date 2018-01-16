@@ -1,0 +1,8 @@
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb

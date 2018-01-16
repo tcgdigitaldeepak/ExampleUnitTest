@@ -1,0 +1,15 @@
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.deps.json
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.json
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.runtimeconfig.dev.json
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.Tests.pdb
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.0\PrimeService.pdb
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.csproj.CoreCompileInputs.cache
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.AssemblyInfoInputs.cache
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.AssemblyInfo.cs
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.dll
+C:\aspnetcoreapp\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.0\PrimeService.Tests.pdb
